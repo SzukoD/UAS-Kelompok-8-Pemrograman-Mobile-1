@@ -42,8 +42,6 @@ Repositori ini digunakan sebagai tempat pengembangan proyek **Ujian Akhir Semest
 
 > "Every great application starts with a simple idea and continuous improvement."
 
-Branch pengembangan digunakan untuk menyimpan seluruh progres proyek yang sedang dikerjakan, termasuk dokumentasi analisis, diagram sistem, desain aplikasi, dan implementasi source code.
-
 ---
 
 ## Repository Status
