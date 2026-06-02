@@ -24,8 +24,6 @@
 
 Repositori ini digunakan sebagai tempat pengembangan proyek **Ujian Akhir Semester (UAS)** untuk mata kuliah **Pemrograman Mobile 1**.
 
-Saat ini proyek masih berada pada tahap **perencanaan, analisis, dan pengembangan awal**. Dokumentasi, diagram sistem, desain antarmuka, serta implementasi aplikasi akan ditambahkan secara bertahap seiring perkembangan proyek.
-
 ---
 
 ## Current Stage
