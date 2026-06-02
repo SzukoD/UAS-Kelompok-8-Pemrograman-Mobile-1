@@ -11,7 +11,6 @@
 ### M Dafa Dwi Saputra
 
 
-\
 
 ---
 
@@ -32,24 +31,12 @@ Saat ini proyek masih berada pada tahap **perencanaan, analisis, dan pengembanga
 ## Current Stage
 
 ```
-[■■■■□□□□□□] Development Progress
+[■■□□□□□□] Development Progress
 ```
 
 🔹 Repository Initialization
 
-🔹 Requirement Analysis
-
 🔹 Use Case Diagram Design
-
-🔹 System Planning
-
-🔸 UI/UX Design
-
-🔸 Application Development
-
-🔸 Testing & Evaluation
-
-🔸 Final Documentation
 
 ---
 
