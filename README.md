@@ -1,4 +1,4 @@
-# 📱 UAS Kelompok 8
+# UAS Kelompok 8
 
 ### Pemrograman Mobile 1
 
@@ -21,7 +21,7 @@
 
 ---
 
-## ✨ About
+## About
 
 Repositori ini digunakan sebagai tempat pengembangan proyek **Ujian Akhir Semester (UAS)** untuk mata kuliah **Pemrograman Mobile 1**.
 
@@ -29,7 +29,7 @@ Saat ini proyek masih berada pada tahap **perencanaan, analisis, dan pengembanga
 
 ---
 
-## 📌 Current Stage
+## Current Stage
 
 ```
 [■■■■□□□□□□] Development Progress
@@ -53,7 +53,7 @@ Saat ini proyek masih berada pada tahap **perencanaan, analisis, dan pengembanga
 
 ---
 
-## 🌱 Development Notes
+## Development Notes
 
 > "Every great application starts with a simple idea and continuous improvement."
 
@@ -61,7 +61,7 @@ Branch pengembangan digunakan untuk menyimpan seluruh progres proyek yang sedang
 
 ---
 
-## 📂 Repository Status
+## Repository Status
 
 ```
 Status      : Active Development
@@ -72,8 +72,8 @@ Maintained  : Kelompok 8
 
 ---
 
-### ⏳ COMING SOON
+### COMING SOON
 
 Documentation • Design • Source Code • Features
 
-⭐ Thank you for visiting this repository ⭐
+Thank you for visiting this repository 
