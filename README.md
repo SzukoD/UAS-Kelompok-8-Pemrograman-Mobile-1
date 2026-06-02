@@ -1,68 +1,64 @@
-# UAS-Kelompok-8-Pemrograman-Mobile-1
-# Nama Project
+# UAS Kelompok 8
 
-Deskripsi singkat mengenai project yang dibuat.
+### Pemrograman Mobile 1
 
-## Fitur
+## Tim Pengembang
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
+### Daffa Ahmad Al-Fajri
 
-## Teknologi yang Digunakan
+### Gerry Khoirul Ahmad Affandi
 
-- Java
-- MySQL
-- NetBeans
-- XAMPP
+### M Dafa Dwi Saputra
 
-## Instalasi
 
-1. Clone repository ini
 
-```bash
-git clone https://github.com/username/nama-project.git
+---
+
+### PROJECT CURRENTLY UNDER DEVELOPMENT
+
+*This repository is actively being developed and improved.*
+
+---
+
+## About
+
+Repositori ini digunakan sebagai tempat pengembangan proyek **Ujian Akhir Semester (UAS)** untuk mata kuliah **Pemrograman Mobile 1**.
+
+---
+
+## Current Stage
+
+```
+[■■□□□□□□] Development Progress
 ```
 
-2. Buka project menggunakan NetBeans atau IDE lainnya.
+🔹 Repository Initialization
 
-3. Import database yang tersedia pada folder database.
+🔹 Use Case Diagram Design
 
-4. Jalankan XAMPP dan aktifkan:
-   - Apache
-   - MySQL
+---
 
-5. Jalankan aplikasi.
+## Development Notes
 
-## Struktur Folder
+> "Every great application starts with a simple idea and continuous improvement."
 
-```text
-Nama-Project/
-│
-├── src/
-├── database/
-├── images/
-├── README.md
-└── build/
+Branch pengembangan digunakan untuk menyimpan seluruh progres proyek yang sedang dikerjakan, termasuk dokumentasi analisis, diagram sistem, desain aplikasi, dan implementasi source code.
+
+---
+
+## Repository Status
+
+```
+Status      : Active Development
+Phase       : Planning
+Progress    : Ongoing
+Maintained  : Kelompok 8
 ```
 
-## Screenshot
+---
 
-Tambahkan screenshot aplikasi di sini.
+### COMING SOON
 
-![Screenshot](images/screenshot.png)
+Documentation • Design • Source Code • Features
 
-## Cara Penggunaan
-
-1. Jalankan aplikasi.
-2. Login menggunakan akun yang tersedia.
-3. Pilih menu yang diinginkan.
-4. Lakukan proses tambah, ubah, hapus, atau cari data.
-
-## Kontributor
-
-- Nama Anda
-
-## Lisensi
-
-Project ini dibuat untuk keperluan pembelajaran dan tugas kuliah.
+Thank you for visiting this repository 
