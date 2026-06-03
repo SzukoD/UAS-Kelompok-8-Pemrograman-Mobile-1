@@ -6,7 +6,7 @@
 
 ### Daffa Ahmad Al-Fajri
 
-### Gerry Khoirul Ahmad Affandi
+### Gery Khoirul Ahmad Affandi
 
 ### M Dafa Dwi Saputra
 
