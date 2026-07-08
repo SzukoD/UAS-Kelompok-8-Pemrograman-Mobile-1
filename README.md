@@ -12,9 +12,9 @@
 ## 👥 Tim Pengembang (Kelompok 8)
 Proyek ini dikembangkan oleh Kelompok 8 sebagai bagian dari tugas akhir mata kuliah **Pemrograman Mobile 1** (Semester 4) di **Universitas Teknologi Bandung**:
 
-* **M Dafa Dwi Saputra (Caleb)** — *Developer Utama / Sistem & Sistem Analis*
-* **Daffa Ahmad Al-Fajri** — *Developer / UI Designer*
-* **Gery Khoirul Ahmad Affandi** — *Developer / QA & Dokumentasi*
+* **Daffa Ahmad Al-Fajri (24552011307)**
+* **Gery Khoirul Ahmad Affandi (24552011377)**
+* **M Dafa Dwi Saputra (24552011320)**
 
 ---
 
@@ -139,18 +139,20 @@ Emulator dengan Android 12 (API 31) atau versi di atasnya.
 4. Klik tombol Run (▶️) pada toolbar Android Studio.
 5. Gunakan salah satu akun dari tabel Akun Demo untuk menguji alur fitur
 masing-masing role.
+
 ⚠️ Batasan Sistem
 ● Gradle Wrapper Configuration: File biner .jar dari Gradle Wrapper (gradlew) sengaja
 tidak dimasukkan ke dalam repositori ini demi keamanan environment. Saat
 pertama kali dibuka di Android Studio lokal Anda, terima tawaran otomatis dari IDE
-
 untuk men-generate kembali wrapper-nya. Berkas konfigurasi
 gradle-wrapper.properties sudah diarahkan untuk mengonsumsi Gradle 8.9.
+
 ● Android Gradle Plugin (AGP) 8.7.3: Proyek ini menggunakan AGP versi 8.7.3 yang
 stabil guna menghindari konflik "built-in Kotlin" pada AGP 9.0 bawaan Android
 Studio Panda yang kerap memicu error Cannot add extension with name 'kotlin'.
 Jika muncul notifikasi rekomendasi pembaruan AGP dari Android Studio, silakan
 abaikan/tolak.
+
 ● Versi Dependensi: Jika proses Gradle Sync mendeteksi dependensi yang usang,
 Anda dipersilakan menaikkan versi komponen AndroidX/Room ke rilis stabil
 terbaru melalui berkas app/build.gradle.kts.
