@@ -115,7 +115,7 @@ app/src/main/java/com/utb/inventoryapp/
 │   ├── gudang/           ← Fragment Sisi Kepala Gudang (Dashboard, Monitoring Stok)
 │   └── common/           ← Komponen Reusable (GenericListAdapter, SimpleMasterFragment, PengaturanFragment)
 └── util/                 ← Extension Functions & ViewModel Factory Custom
-
+```
 🚀 Cara Menjalankan Aplikasi
 Ekstrak Berkas ZIP proyek ini, lalu buka direktori utamanya secara langsung melalui IDE Android Studio Panda 2025.3.1 Patch 1 (File > Open).
 
