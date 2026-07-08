@@ -26,7 +26,7 @@ Seluruh data operasional disimpan sepenuhnya secara lokal menggunakan **Room (SQ
 ---
 
 ## 🎬 Link Video Demo & Dokumentasi UAS
-* 🔗 **Link Video Demo Aplikasi (YouTube):** [(https://youtu.be/Cw9O555B6ww?si=1nj8YR_Uian4Punu)] *(Berisi perkenalan anggota kelompok, demo aplikasi, dan penjelasan alur kode)*
+* 🔗 **Link Video Demo Aplikasi (YouTube):** (https://youtu.be/Cw9O555B6ww?si=1nj8YR_Uian4Punu) *(Berisi perkenalan anggota kelompok, demo aplikasi, dan penjelasan alur kode)*
 * 📁 **Berkas Laporan OOAD:** Tersimpan di dalam folder `/docs` pada repositori ini.
 * 🤖 **Berkas APK Siap Pakai:** Tersimpan di dalam folder `/apk/app-release.apk`.
 
