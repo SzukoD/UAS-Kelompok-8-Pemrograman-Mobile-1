@@ -37,7 +37,7 @@ Sesuai dengan ketentuan pengumpulan UAS Pemrograman Mobile 1:
 Berikut adalah beberapa dokumentasi antarmuka dari aplikasi Sistem Manajemen Inventory:
 
 <p align="center">
-  <img src="Screenshot-Tampilan/tampilan.jpeg" width="250" title="Tampilan">
+  <img src="Screenshot-Tampilan/tampilan.jpeg" width="550" title="Tampilan">
 </p>
 
 
