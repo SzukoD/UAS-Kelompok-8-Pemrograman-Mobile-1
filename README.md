@@ -36,7 +36,7 @@ Seluruh data operasional disimpan sepenuhnya secara lokal menggunakan **Room (SQ
 Berikut adalah beberapa dokumentasi antarmuka dari aplikasi Sistem Manajemen Inventory:
 
 <p align="center">
-  <img src="Screenshot-Tampilan/tampilan.jpeg" width="550" title="Tampilan">
+  <img src="Screenshot-Tampilan/tampilan.jpeg" width="750" title="Tampilan">
 </p>
 
 
