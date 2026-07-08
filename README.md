@@ -26,9 +26,8 @@ Seluruh data operasional disimpan sepenuhnya secara lokal menggunakan **Room (SQ
 ---
 
 ## 🎬 Link Video Demo & Dokumentasi UAS
-Sesuai dengan ketentuan pengumpulan UAS Pemrograman Mobile 1:
-* 🔗 **Link Video Demo Aplikasi (YouTube/Drive):** [Tulis Link Video Kamu Di Sini] *(Berisi perkenalan anggota kelompok, demo aplikasi, dan penjelasan alur kode)*
-* 📁 **Berkas Laporan OOAD:** Tersimpan di dalam folder `/docs` atau `/ooad` pada repositori ini.
+* 🔗 **Link Video Demo Aplikasi (YouTube):** [Tulis Link Video Kamu Di Sini] *(Berisi perkenalan anggota kelompok, demo aplikasi, dan penjelasan alur kode)*
+* 📁 **Berkas Laporan OOAD:** Tersimpan di dalam folder `/docs` pada repositori ini.
 * 🤖 **Berkas APK Siap Pakai:** Tersimpan di dalam folder `/apk/app-release.apk`.
 
 ---
