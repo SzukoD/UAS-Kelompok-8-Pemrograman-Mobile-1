@@ -141,6 +141,7 @@ Emulator dengan Android 12 (API 31) atau versi di atasnya.
 masing-masing role.
 
 ⚠️ Batasan Sistem
+
 ● Gradle Wrapper Configuration: File biner .jar dari Gradle Wrapper (gradlew) sengaja
 tidak dimasukkan ke dalam repositori ini demi keamanan environment. Saat
 pertama kali dibuka di Android Studio lokal Anda, terima tawaran otomatis dari IDE
