@@ -12,7 +12,7 @@
 ## 👥 Tim Pengembang (Kelompok 8)
 Proyek ini dikembangkan oleh Kelompok 8 sebagai bagian dari tugas akhir mata kuliah **Pemrograman Mobile 1** (Semester 4) di **Universitas Teknologi Bandung**:
 
-*   **M Dafa Dwi Saputra (Caleb)** — *Developer Utama / Sistem & Sistem Analis*
+*   **M Dafa Dwi Saputra (24552011320)** — *Developer Utama / Sistem & Sistem Analis*
 *   **Daffa Ahmad Al-Fajri** — *Developer / UI Designer*
 *   **Gery Khoirul Ahmad Affandi** — *Developer / QA & Dokumentasi*
 
