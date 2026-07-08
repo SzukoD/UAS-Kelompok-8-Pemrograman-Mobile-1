@@ -40,7 +40,6 @@ Berikut adalah beberapa dokumentasi antarmuka dari aplikasi Sistem Manajemen Inv
   <img src="Screenshot-Tampilan/Tampilan.jpeg" width="250" title="Tampilan">
 </p>
 
-> *Catatan: Ganti teks `[Taruh Link Foto Screenshot Di Sini]` dengan URL gambar screenshot aplikasi kamu setelah di-upload ke folder project GitHub.*
 
 ---
 
