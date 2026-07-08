@@ -1,0 +1,17 @@
+[
+  {
+    "name": "nav_admin",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_gudang",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_pic",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

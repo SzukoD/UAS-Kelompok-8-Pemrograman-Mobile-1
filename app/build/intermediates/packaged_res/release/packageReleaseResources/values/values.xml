@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#F5F6FA</color>
+    <color name="black">#000000</color>
+    <color name="danger">#C62828</color>
+    <color name="divider">#E0E3E9</color>
+    <color name="ic_launcher_background">#1565C0</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="secondary">#00897B</color>
+    <color name="success">#2E7D32</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1B1E28</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="warning">#F9A825</color>
+    <color name="white">#FFFFFF</color>
+    <string name="action_add">Tambah</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_edit">Ubah</string>
+    <string name="action_logout">Keluar</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_search">Cari</string>
+    <string name="app_name">Inventory Management</string>
+    <string name="btn_login">Masuk</string>
+    <string name="confirm_delete_message">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="confirm_delete_title">Konfirmasi Hapus</string>
+    <string name="confirm_logout_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="deleted_successfully">Data berhasil dihapus</string>
+    <string name="empty_state_message">Belum ada data</string>
+    <string name="error_empty_field">Username dan password wajib diisi</string>
+    <string name="error_invalid_login">Username atau password salah</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="login_hint_demo">Demo akun: admin/admin123, pic1/pic123, gudang1/gudang123</string>
+    <string name="login_subtitle">Masuk untuk melanjutkan</string>
+    <string name="login_title">Sistem Manajemen Inventory</string>
+    <string name="menu_approval">Approval</string>
+    <string name="menu_barang">Barang</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_history">History</string>
+    <string name="menu_laporan">Laporan</string>
+    <string name="menu_master">Master</string>
+    <string name="menu_monitoring">Monitoring</string>
+    <string name="menu_peminjaman">Peminjaman</string>
+    <string name="menu_pengaturan">Pengaturan</string>
+    <string name="menu_pengembalian">Pengembalian</string>
+    <string name="menu_sparepart">Sparepart</string>
+    <string name="menu_transaksi">Transaksi</string>
+    <string name="saved_successfully">Data berhasil disimpan</string>
+    <style name="InputField">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:background">@drawable/bg_edittext</item>
+        <item name="android:importantForAutofill">no</item>
+    </style>
+    <style name="InputLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style>
+    <style name="TextAppearance.InventoryApp.Subtitle" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="TextAppearance.InventoryApp.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.InventoryApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+    <style name="Theme.InventoryApp.NoActionBar" parent="Theme.InventoryApp"/>
+    <style name="Widget.InventoryApp.Button" parent="Widget.Material3.Button">
+        <item name="cornerRadius">10dp</item>
+    </style>
+    <style name="Widget.InventoryApp.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="contentPadding">16dp</item>
+    </style>
+</resources>

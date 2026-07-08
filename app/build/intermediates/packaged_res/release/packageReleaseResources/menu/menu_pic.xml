@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/picDashboardFragment" android:icon="@drawable/ic_dashboard" android:title="@string/menu_dashboard" />
+    <item android:id="@+id/peminjamanListFragment" android:icon="@drawable/ic_box" android:title="@string/menu_peminjaman" />
+    <item android:id="@+id/permintaanSparepartListFragment" android:icon="@drawable/ic_supplier" android:title="@string/menu_sparepart" />
+    <item android:id="@+id/pengembalianListFragment" android:icon="@drawable/ic_return" android:title="@string/menu_pengembalian" />
+    <item android:id="@+id/historyFragment" android:icon="@drawable/ic_history" android:title="@string/menu_history" />
+</menu>

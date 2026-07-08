@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inventory Management</string>
+
+    <string name="login_title">Sistem Manajemen Inventory</string>
+    <string name="login_subtitle">Masuk untuk melanjutkan</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Masuk</string>
+    <string name="login_hint_demo">Demo akun: admin/admin123, pic1/pic123, gudang1/gudang123</string>
+    <string name="error_empty_field">Username dan password wajib diisi</string>
+    <string name="error_invalid_login">Username atau password salah</string>
+
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_barang">Barang</string>
+    <string name="menu_master">Master</string>
+    <string name="menu_transaksi">Transaksi</string>
+    <string name="menu_approval">Approval</string>
+    <string name="menu_laporan">Laporan</string>
+    <string name="menu_pengaturan">Pengaturan</string>
+    <string name="menu_peminjaman">Peminjaman</string>
+    <string name="menu_sparepart">Sparepart</string>
+    <string name="menu_pengembalian">Pengembalian</string>
+    <string name="menu_history">History</string>
+    <string name="menu_monitoring">Monitoring</string>
+
+    <string name="empty_state_message">Belum ada data</string>
+    <string name="action_add">Tambah</string>
+    <string name="action_edit">Ubah</string>
+    <string name="action_delete">Hapus</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_search">Cari</string>
+    <string name="action_logout">Keluar</string>
+    <string name="confirm_delete_title">Konfirmasi Hapus</string>
+    <string name="confirm_delete_message">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="confirm_logout_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="saved_successfully">Data berhasil disimpan</string>
+    <string name="deleted_successfully">Data berhasil dihapus</string>
+</resources>

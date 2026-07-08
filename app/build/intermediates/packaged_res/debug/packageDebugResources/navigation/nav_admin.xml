@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_admin"
+    app:startDestination="@id/adminDashboardFragment">
+
+    <fragment
+        android:id="@+id/adminDashboardFragment"
+        android:name="com.utb.inventoryapp.ui.admin.dashboard.AdminDashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/barangListFragment"
+        android:name="com.utb.inventoryapp.ui.admin.barang.BarangListFragment"
+        android:label="Barang" />
+
+    <fragment
+        android:id="@+id/barangFormFragment"
+        android:name="com.utb.inventoryapp.ui.admin.barang.BarangFormFragment"
+        android:label="Form Barang">
+        <argument android:name="barangId" app:argType="long" android:defaultValue="0L" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/masterMenuFragment"
+        android:name="com.utb.inventoryapp.ui.admin.master.MasterMenuFragment"
+        android:label="Master Data" />
+
+    <fragment
+        android:id="@+id/simpleMasterFragment"
+        android:name="com.utb.inventoryapp.ui.common.SimpleMasterFragment"
+        android:label="Master">
+        <argument android:name="arg_type" app:argType="string" android:defaultValue="KATEGORI" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/supplierListFragment"
+        android:name="com.utb.inventoryapp.ui.admin.supplier.SupplierListFragment"
+        android:label="Supplier" />
+
+    <fragment
+        android:id="@+id/userListFragment"
+        android:name="com.utb.inventoryapp.ui.admin.user.UserListFragment"
+        android:label="Pengguna" />
+
+    <fragment
+        android:id="@+id/approvalFragment"
+        android:name="com.utb.inventoryapp.ui.admin.approval.ApprovalFragment"
+        android:label="Approval" />
+
+    <fragment
+        android:id="@+id/laporanFragment"
+        android:name="com.utb.inventoryapp.ui.admin.laporan.LaporanFragment"
+        android:label="Laporan" />
+
+    <fragment
+        android:id="@+id/laporanDetailFragment"
+        android:name="com.utb.inventoryapp.ui.admin.laporan.LaporanDetailFragment"
+        android:label="Detail Laporan">
+        <argument android:name="laporanType" app:argType="string" android:defaultValue="BARANG" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/pengaturanFragment"
+        android:name="com.utb.inventoryapp.ui.common.PengaturanFragment"
+        android:label="Pengaturan" />
+
+</navigation>

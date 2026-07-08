@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        style="@style/TextAppearance.InventoryApp.Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Kembalikan Alat" />
+
+    <TextView style="@style/InputLabel" android:text="Pilih Peminjaman" />
+    <Spinner android:id="@+id/spPeminjaman" style="@style/InputField" />
+
+    <TextView style="@style/InputLabel" android:text="Kondisi Barang" />
+    <Spinner android:id="@+id/spKondisi" style="@style/InputField" />
+
+    <EditText android:id="@+id/etKeterangan" style="@style/InputField" android:hint="Keterangan (opsional)" />
+
+</LinearLayout>

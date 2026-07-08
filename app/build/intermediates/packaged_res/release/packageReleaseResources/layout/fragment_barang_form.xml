@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp">
+
+            <ImageButton
+                android:id="@+id/btnBack"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_return"
+                android:contentDescription="@string/action_cancel" />
+
+            <TextView
+                android:id="@+id/tvFormTitle"
+                style="@style/TextAppearance.InventoryApp.Title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:textSize="18sp"
+                android:text="Tambah Barang" />
+        </LinearLayout>
+
+        <EditText android:id="@+id/etKode" style="@style/InputField" android:hint="Kode Barang" />
+        <EditText android:id="@+id/etNama" style="@style/InputField" android:hint="Nama Barang" />
+
+        <TextView style="@style/InputLabel" android:text="Kategori" />
+        <Spinner android:id="@+id/spKategori" style="@style/InputField" />
+
+        <TextView style="@style/InputLabel" android:text="Jenis Barang" />
+        <Spinner android:id="@+id/spJenis" style="@style/InputField" />
+
+        <TextView style="@style/InputLabel" android:text="Satuan" />
+        <Spinner android:id="@+id/spSatuan" style="@style/InputField" />
+
+        <TextView style="@style/InputLabel" android:text="Supplier" />
+        <Spinner android:id="@+id/spSupplier" style="@style/InputField" />
+
+        <TextView style="@style/InputLabel" android:text="Lokasi" />
+        <Spinner android:id="@+id/spLokasi" style="@style/InputField" />
+
+        <EditText android:id="@+id/etStok" style="@style/InputField" android:hint="Jumlah Stok" android:inputType="number" />
+
+        <TextView style="@style/InputLabel" android:text="Kondisi" />
+        <Spinner android:id="@+id/spKondisi" style="@style/InputField" />
+
+        <EditText android:id="@+id/etDeskripsi" style="@style/InputField" android:hint="Deskripsi (opsional)" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSimpan"
+            style="@style/Widget.InventoryApp.Button"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="@color/primary"
+            android:text="@string/action_save" />
+
+    </LinearLayout>
+</ScrollView>

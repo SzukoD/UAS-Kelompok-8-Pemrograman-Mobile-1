@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        style="@style/TextAppearance.InventoryApp.Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Ajukan Permintaan Sparepart" />
+
+    <TextView style="@style/InputLabel" android:text="Pilih Sparepart" />
+    <Spinner android:id="@+id/spBarang" style="@style/InputField" />
+
+    <EditText android:id="@+id/etJumlah" style="@style/InputField" android:hint="Jumlah" android:inputType="number" />
+
+    <EditText android:id="@+id/etKeterangan" style="@style/InputField" android:hint="Keterangan (opsional)" />
+
+</LinearLayout>

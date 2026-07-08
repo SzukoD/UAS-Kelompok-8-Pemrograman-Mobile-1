@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_gudang"
+    app:startDestination="@id/gudangDashboardFragment">
+
+    <fragment
+        android:id="@+id/gudangDashboardFragment"
+        android:name="com.utb.inventoryapp.ui.gudang.dashboard.GudangDashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/monitoringFragment"
+        android:name="com.utb.inventoryapp.ui.gudang.monitoring.MonitoringFragment"
+        android:label="Monitoring" />
+
+    <fragment
+        android:id="@+id/laporanGudangFragment"
+        android:name="com.utb.inventoryapp.ui.admin.laporan.LaporanFragment"
+        android:label="Laporan" />
+
+    <fragment
+        android:id="@+id/laporanDetailFragment"
+        android:name="com.utb.inventoryapp.ui.admin.laporan.LaporanDetailFragment"
+        android:label="Detail Laporan">
+        <argument android:name="laporanType" app:argType="string" android:defaultValue="BARANG" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/pengaturanFragment"
+        android:name="com.utb.inventoryapp.ui.common.PengaturanFragment"
+        android:label="Pengaturan" />
+
+</navigation>

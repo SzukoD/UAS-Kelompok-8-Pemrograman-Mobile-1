@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/adminDashboardFragment" android:icon="@drawable/ic_dashboard" android:title="@string/menu_dashboard" />
+    <item android:id="@+id/barangListFragment" android:icon="@drawable/ic_box" android:title="@string/menu_barang" />
+    <item android:id="@+id/masterMenuFragment" android:icon="@drawable/ic_category" android:title="@string/menu_master" />
+    <item android:id="@+id/approvalFragment" android:icon="@drawable/ic_approval" android:title="@string/menu_approval" />
+    <item android:id="@+id/laporanFragment" android:icon="@drawable/ic_report" android:title="@string/menu_laporan" />
+</menu>

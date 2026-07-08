@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_pic"
+    app:startDestination="@id/picDashboardFragment">
+
+    <fragment
+        android:id="@+id/picDashboardFragment"
+        android:name="com.utb.inventoryapp.ui.pic.dashboard.PicDashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/peminjamanListFragment"
+        android:name="com.utb.inventoryapp.ui.pic.peminjaman.PeminjamanListFragment"
+        android:label="Peminjaman" />
+
+    <fragment
+        android:id="@+id/permintaanSparepartListFragment"
+        android:name="com.utb.inventoryapp.ui.pic.sparepart.PermintaanSparepartListFragment"
+        android:label="Permintaan Sparepart" />
+
+    <fragment
+        android:id="@+id/pengembalianListFragment"
+        android:name="com.utb.inventoryapp.ui.pic.pengembalian.PengembalianListFragment"
+        android:label="Pengembalian" />
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.utb.inventoryapp.ui.pic.history.HistoryFragment"
+        android:label="History" />
+
+    <fragment
+        android:id="@+id/pengaturanFragment"
+        android:name="com.utb.inventoryapp.ui.common.PengaturanFragment"
+        android:label="Pengaturan" />
+
+</navigation>

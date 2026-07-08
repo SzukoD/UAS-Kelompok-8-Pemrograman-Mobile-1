@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_monitor.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_monitor.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_item_menu_card.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/item_menu_card.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_pic_dashboard.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_pic_dashboard.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_gudang_dashboard.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_gudang_dashboard.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_search.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_item_stat_card.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/item_stat_card.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/menu_menu_gudang.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/menu/menu_gudang.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_dialog_sparepart_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/dialog_sparepart_form.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_status_pending.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_status_pending.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_supplier.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_supplier.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_box.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_box.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_home.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_laporan_menu.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_laporan_menu.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_edit.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/navigation_nav_gudang.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/navigation/nav_gudang.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_approval.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_approval.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_user.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_barang_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_barang_form.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_admin_dashboard.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_history.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_header_gradient.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_header_gradient.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_settings.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_laporan_detail.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_laporan_detail.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/menu_menu_admin.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/menu/menu_admin.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_dialog_peminjaman_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/dialog_peminjaman_form.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_add.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/menu_menu_pic.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/menu/menu_pic.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_stat_card.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_stat_card.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_status_chip.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_status_chip.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_status_rejected.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_status_rejected.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_report.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_report.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_dashboard.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_item_master_row.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/item_master_row.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_list_generic.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_list_generic.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/navigation_nav_pic.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/navigation/nav_pic.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_status_approved.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_status_approved.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/navigation_nav_admin.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/navigation/nav_admin.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_bg_edittext.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_category.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_category.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_delete.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_pengaturan.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_pengaturan.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_read_only_list.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_read_only_list.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_location.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_activity_main.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_fragment_master_menu.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/fragment_master_menu.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_return.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_return.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_item_approval_row.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/item_approval_row.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_dialog_user_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/dialog_user_form.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_activity_login.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_dialog_master_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/dialog_master_form.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_dialog_pengembalian_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/dialog_pengembalian_form.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_logout.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-release-55:/layout_dialog_supplier_form.xml.flat",
+        "source": "com.utb.inventoryapp-main-56:/layout/dialog_supplier_form.xml"
+    }
+]

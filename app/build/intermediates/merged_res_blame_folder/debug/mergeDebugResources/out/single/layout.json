@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_list_generic.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_list_generic.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_admin_dashboard.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_laporan_menu.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_laporan_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\dialog_supplier_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\dialog_supplier_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\dialog_peminjaman_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\dialog_peminjaman_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_pic_dashboard.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_pic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_master_menu.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_master_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\item_master_row.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\item_master_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\item_stat_card.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\item_stat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\dialog_master_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\dialog_master_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_gudang_dashboard.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_gudang_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_read_only_list.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_read_only_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\dialog_user_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\dialog_user_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\dialog_sparepart_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\dialog_sparepart_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\item_approval_row.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\item_approval_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_laporan_detail.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_laporan_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\dialog_pengembalian_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\dialog_pengembalian_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\item_menu_card.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\item_menu_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_pengaturan.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_pengaturan.xml"
+    },
+    {
+        "merged": "com.utb.inventoryapp-mergeDebugResources-54:/layout/fragment_admin_dashboard.xml",
+        "source": "com.utb.inventoryapp-main-57:/layout/fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\fragment_barang_form.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\fragment_barang_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\asus\\.gradle\\daemon\\8.9\\com.utb.inventoryapp-main-57:\\layout\\activity_main.xml"
+    }
+]
